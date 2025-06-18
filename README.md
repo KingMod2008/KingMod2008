@@ -56,7 +56,7 @@ I am a passionate developer, always looking to learn and build new things. I lov
       <h3 align="center">RL-ModMenu</h3>
       <div align="center">
         <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
-          <img src="https://camo.githubusercontent.com/5e0550013748fec8d7f76daf973a65f0d38f9d4b19548fd621946ec6cf8dd9d8/68747470733a2f2f696d6775722e636f6d2f612f644c556532514b" width="500" style="object-fit: cover;" alt="RL-ModMenu">
+          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-ModMenu">
         </a>
         <p>
           <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
