@@ -18,12 +18,7 @@ I am a passionate developer, always looking to learn and build new things. I lov
 
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>
+
 
 <!-- Social Links -->
 <div align="center">
