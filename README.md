@@ -14,8 +14,8 @@ I am a passionate developer, always looking to learn and build new things. I lov
   - *[Project ideas or types of projects]*
 - ✔ Feel free to ask me about ...
   - *[Your areas of expertise]*
-- Hobbies: *[Your hobbies here, e.g., 🎮 playing video games, 🎵 listening to music, 🎸 playing instruments]*
-- 📫 How to reach me: <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a>
+- Hobbies: *[Your hobbies here, e.g., 🎮 playing video games, 🍿 watching movies, ✈️ traveling, and exploring new tech]*
+
 <br>
 
 <!-- Profile Trophies -->
@@ -27,10 +27,9 @@ I am a passionate developer, always looking to learn and build new things. I lov
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/YOUR_TWITTER/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.tiktok.com/@xking_2008"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=black" /></a>
+  <a href="https://www.youtube.com/channel/UC872NfXThyr5tdmQRNO5YhQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -39,12 +38,13 @@ I am a passionate developer, always looking to learn and build new things. I lov
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Add your skills here -->
-<!-- Example: -->
-<!--
 ###### Languages & Syntax:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&
 
 <br>
 <br>
@@ -52,48 +52,27 @@ I am a passionate developer, always looking to learn and build new things. I lov
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Add your projects here -->
-<!-- Example: -->
-<!--
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project Name</h3>
+      <h3 align="center">RL-ModMenu</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_REPO" target="_blank">
-          <img src="PATH_TO_PROJECT_IMAGE" width="500" alt="Project Name">
+        <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
+          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-ModMenu">
         </a>
         <p>
-          <a href="https://github.com/YOUR_USERNAME/PROJECT_REPO" target="_blank">
+          <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>Project Description:</strong> A brief description of your project.</p>
+        <p><strong>KingMod V5</strong> is an advanced modding framework for Rocket League, built with ImGui and KieroHook. This version includes enhanced features and improved stability.</p>
       </div>
     </td>
   </tr>
 </table>
--->
 <br>
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nightowl&hide_border=false" alt="YOUR_USERNAME streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
+
 
 <!-- Visitor Counter -->
 <br>
