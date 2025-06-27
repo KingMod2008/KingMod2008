@@ -1,24 +1,24 @@
+<!-- Line Break -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1><b>Hi there, I'm KingMod</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
+<img align="right" width="200" alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
 I am a passionate developer, always looking to learn and build new things. I love to create innovative solutions and contribute to open-source projects.
+
 - 📚 I’m currently learning ...
-  - *[Your Technology/Language here]*
-  - *[Another Technology/Language here]*
+  - *C++ memory hacking*
+  - *Unreal Engine / ImGui / Rocket League internals*
 - 🚀 I’m looking to collaborate on ...
-  - *[Project ideas or types of projects]*
+  - *Rocket League client-side mods*
 - ✔ Feel free to ask me about ...
-  - *[Your areas of expertise]*
-- Hobbies: *[Your hobbies here, e.g., 🎮 playing video games, 🍿 watching movies, ✈️ traveling, and exploring new tech]*
+  - *Memory editing, DLL injection, UI with ImGui*
+- Hobbies: 🎮 gaming, ✏️ coding mods, 📺 watching tech videos, 🛠️ reverse engineering
 
 <br>
-
-
 
 <!-- Social Links -->
 <div align="center">
@@ -29,68 +29,51 @@ I am a passionate developer, always looking to learn and build new things. I lov
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<!-- Skills -->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Add your skills here -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br>
-<br>
+<br><br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Projects***
+<!-- Projects -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Project***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table width="100%">
   <tr>
-    <!-- RL-ModMenu -->
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <h3>RL-ModMenu</h3>
       <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
-        <img src="https://i.imgur.com/ofnaNVV.png" width="90%" style="object-fit: cover;" alt="RL-ModMenu">
+        <img src="https://i.imgur.com/ofnaNVV.png" width="60%" style="object-fit: cover;" alt="RL-ModMenu">
       </a>
       <p>
         <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
       </p>
-      <p><strong>KingMod V5</strong> is an advanced modding framework for Rocket League, built with ImGui and KieroHook. It features enhanced tools and improved stability.</p>
-    </td>
-
-    < RL-TitleSpawner >
-    <td width="50%" align="center" valign="top">
-      <h3>RL-TitleSpawner</h3>
-      <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
-        <img src="https://i.imgur.com/ofnaNVV.png" width="90%" style="object-fit: cover;" alt="RL-TitleSpawner">
-      </a>
-      <p>
-        <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-        </a>
-      </p>
-      <p><strong>KingModTitles</strong> allows spawning and customizing in-game titles, including icons and other visual elements — great for personalization.</p>
+      <p><strong>KingMod V5</strong> is an advanced Rocket League modding framework using ImGui and KieroHook with custom features, memory tools, and better stability.</p>
     </td>
   </tr>
 </table>
 
-
-
-
 <!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/KingMod2008/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+<br><br>
+<div align="center">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img alt="visitors counter" src="https://profile-counter.glitch.me/KingMod2008/count.svg">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
-<br>
-<br>
+
+<br><br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
