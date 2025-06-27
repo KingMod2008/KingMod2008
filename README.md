@@ -68,6 +68,26 @@ I am a passionate developer, always looking to learn and build new things. I lov
 </table>
 <br>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">RL-ModMenu</h3>
+      <div align="center">
+        <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
+          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-ModMenu">
+        </a>
+        <p>
+          <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+          </a>
+        </p>
+        <p><strong>KingModTitles</strong> This plugin can spawn titles and make custom one with custom icon and more!.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
+
 
 
 <!-- Visitor Counter -->
