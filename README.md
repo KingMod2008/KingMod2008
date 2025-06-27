@@ -48,41 +48,38 @@ I am a passionate developer, always looking to learn and build new things. I lov
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
+<table width="100%">
   <tr>
     <!-- RL-ModMenu -->
-    <td width="50%">
-      <h3 align="center">RL-ModMenu</h3>
-      <div align="center">
+    <td width="50%" align="center" valign="top">
+      <h3>RL-ModMenu</h3>
+      <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
+        <img src="https://i.imgur.com/ofnaNVV.png" width="90%" style="object-fit: cover;" alt="RL-ModMenu">
+      </a>
+      <p>
         <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
-          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-ModMenu">
+          <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
-        <p>
-          <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-          </a>
-        </p>
-        <p><strong>KingMod V5</strong> is an advanced modding framework for Rocket League, built with ImGui and KieroHook. This version includes enhanced features and improved stability.</p>
-      </div>
+      </p>
+      <p><strong>KingMod V5</strong> is an advanced modding framework for Rocket League, built with ImGui and KieroHook. It features enhanced tools and improved stability.</p>
     </td>
 
-    <!-- RL-TitleSpawner -->
-    <td width="50%">
-      <h3 align="center">RL-TitleSpawner</h3>
-      <div align="center">
+    < RL-TitleSpawner >
+    <td width="50%" align="center" valign="top">
+      <h3>RL-TitleSpawner</h3>
+      <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
+        <img src="https://i.imgur.com/ofnaNVV.png" width="90%" style="object-fit: cover;" alt="RL-TitleSpawner">
+      </a>
+      <p>
         <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
-          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-TitleSpawner">
+          <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
-        <p>
-          <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-          </a>
-        </p>
-        <p><strong>KingModTitles</strong> is a plugin that allows you to spawn custom titles, use unique icons, and personalize your experience in Rocket League.</p>
-      </div>
+      </p>
+      <p><strong>KingModTitles</strong> allows spawning and customizing in-game titles, including icons and other visual elements — great for personalization.</p>
     </td>
   </tr>
 </table>
+
 
 
 
