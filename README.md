@@ -50,6 +50,7 @@ I am a passionate developer, always looking to learn and build new things. I lov
 
 <table>
   <tr>
+    <!-- RL-ModMenu -->
     <td width="50%">
       <h3 align="center">RL-ModMenu</h3>
       <div align="center">
@@ -58,35 +59,30 @@ I am a passionate developer, always looking to learn and build new things. I lov
         </a>
         <p>
           <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+            <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
           </a>
         </p>
         <p><strong>KingMod V5</strong> is an advanced modding framework for Rocket League, built with ImGui and KieroHook. This version includes enhanced features and improved stability.</p>
       </div>
     </td>
-  </tr>
-</table>
-<br>
 
-<table>
-  <tr>
+    <!-- RL-TitleSpawner -->
     <td width="50%">
-      <h3 align="center">RL-ModMenu</h3>
+      <h3 align="center">RL-TitleSpawner</h3>
       <div align="center">
         <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
-          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-ModMenu">
+          <img src="https://i.imgur.com/ofnaNVV.png" width="500" style="object-fit: cover;" alt="RL-TitleSpawner">
         </a>
         <p>
-          <a href="https://github.com/KingMod2008/RL-ModMenu" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+          <a href="https://github.com/KingMod2008/RL-TitleSpawner" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-GITHUB-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
           </a>
         </p>
-        <p><strong>KingModTitles</strong> This plugin can spawn titles and make custom one with custom icon and more!.</p>
+        <p><strong>KingModTitles</strong> is a plugin that allows you to spawn custom titles, use unique icons, and personalize your experience in Rocket League.</p>
       </div>
     </td>
   </tr>
 </table>
-<br>
 
 
 
