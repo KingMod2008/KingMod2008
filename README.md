@@ -75,5 +75,16 @@ I am a passionate developer, always looking to learn and build new things. I lov
 </div>
 
 <br><br>
+<!-- PayPal Support -->
+<div align="center">
+  <a href="https://www.paypal.me/mahmodhalah3" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Support">
+  </a>
+</div>
+
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
