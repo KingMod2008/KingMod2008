@@ -3,6 +3,13 @@
 
 <h1><b>Hi there, I'm KingMod</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
+<!-- View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KingMod2008&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KingMod2008&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+</p>
+
 <!-- About Me -->
 <br>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;<b>About Me</b>
@@ -47,7 +54,6 @@ I am a passionate developer, always looking to learn and build new things. I lov
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-
 <!-- Projects -->
 <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;<b>My Best Project</b>
@@ -77,7 +83,6 @@ I am a passionate developer, always looking to learn and build new things. I lov
     <img src="https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal">
   </a>
 </div>
-
 
 <!-- Footer Line Break -->
 <br>
