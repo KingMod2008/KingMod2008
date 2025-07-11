@@ -78,13 +78,6 @@ I am a passionate developer, always looking to learn and build new things. I lov
   </a>
 </div>
 
-<!-- Visitor Counter -->
-<br>
-<div align="center">
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-  <img alt="visitors counter" src="https://profile-counter.glitch.me/KingMod2008/count.svg">
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
 
 <!-- Footer Line Break -->
 <br>
