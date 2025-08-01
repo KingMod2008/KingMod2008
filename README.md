@@ -33,7 +33,7 @@ I am a passionate developer, always looking to learn and build new things. I lov
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://discord.gg/XEpNz5XFtx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
+  <a href="https://discord.gg/kingmods"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
   <a href="https://www.tiktok.com/@ar_mahmod2008"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=black" /></a>
   <a href="https://www.youtube.com/channel/UC872NfXThyr5tdmQRNO5YhQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=black" /></a>
 </div>
